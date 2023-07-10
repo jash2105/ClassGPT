@@ -23,17 +23,5 @@ def sidebar():
             st.success("API key set")
 
         st.markdown(
-            """
-            ---
-            ## About
-
-            ClassGPT lets you ask questions about your class \
-                lectures and get accurate answers
-
-            This tool is a work in progress.
-
-            Contributions are welcomed on [GitHub](https://github.com/benthecoder/ClassGPT)
-
-            Made with ♥️ by [Benedict Neo](https://benneo.super.site/)
-            """
+          
         )
