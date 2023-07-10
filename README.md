@@ -1,5 +1,12 @@
 # ClassGPT
 
+ClassGPT is a project designed to assist with daily classes by enabling the upload and analysis of PDF files, such as research papers or class lectures. It utilizes the power of artificial intelligence to answer questions related to the uploaded documents.
+
+Usage : 
+[![Watch the video](https://youtu.be/a2BaHLKHFkk)](https://youtu.be/a2BaHLKHFkk)
+
+
+
 This repository contains code for parsing PDF files, constructing an index using LlamaIndex's GPTSimpleVectorIndex, and querying the index. It utilizes the text-embedding-ada-002 model to create embeddings. The indexes and files are stored on Amazon S3.
 
 ## How it Works
